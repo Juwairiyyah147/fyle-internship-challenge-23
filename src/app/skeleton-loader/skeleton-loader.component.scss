@@ -1,0 +1,12 @@
+/* skeleton-loader.component.scss */
+.skeleton-loader {
+  display: flex;
+  flex-direction: column;
+}
+
+.skeleton-item {
+  height: 20px;
+  width: 100%;
+  background-color: #e0e0e0;
+  margin-bottom: 10px;
+}
